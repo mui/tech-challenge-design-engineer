@@ -22,15 +22,19 @@ Head over to [our company Handbook](https://mui-org.notion.site/Why-MUI-d8b8c142
 ## Challenge summary
 
 Given that the Design Engineer position sits right at the intersection between engineering and design, this challenge was tailored to elevate your skills in both areas.
-You’ll develop a stacked **Snackbar** component, and here’s the reference design:
+You’ll develop a stacked **Snackbar** component, and here’s is an example of how it can look like:
 
+<!-- TODO: change the example.png -->
 ![Snackbars example design](public/example.png)
 
 Feel free to add your own creative spin to this design, tweaking it however you want to add more spice and personal taste.
 However, we do have a few requirements:
 
 - **Stack:** use MUI Base’s [`UnstyledSnackbar`](https://mui.com/base/react-snackbar/) component or even other headless/unstyled component libraries as the foundation for it.
-- **Expand & collapse interaction:** the Snackbar sitting behind should be fully visible as you hover the stack. It then should collapse as you hover out of it.
+- **Show & hide options:** the Snackbars should be opened after some interaction (like clicking a button). They should close either by clicking on the close button or when the downloads finishes. The Snackbars should be kept open if the focus is inside them. Bonus: add the option in the Snackbar component to be closed after some time interval that can be configurable.
+- **Expand & collapse interaction:** the Snackbar sitting behind should be fully visible if you you hover the stack or focus the Snackbar itself. It then should collapse as you hover out of it or if the focus moves out of it. (Please have the demo page show at least two Snackbars so that we can see this behavior).
+<!-- TODO: add a gif showing the expanding & collapsing -->
+- **Transitions:** the Snackbars should appear and disappear gracefully on the screen, using an animation.
 - **Dark mode:** make sure to support light and dark modes.
 
 ## Submission instructions
