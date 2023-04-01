@@ -1,4 +1,4 @@
-# ⚛️ Design Engineer @ MUI: Technical challenge
+# Design Engineer technical challenge @ MUI
 
 This challenge is part of the hiring process at MUI for the Design Engineer position.
 The idea is to make as much progress as possible under a given time constraint (3-4 hours).
@@ -14,7 +14,7 @@ We'll review how you make design decisions and the quality of the written code.
 MUI's objective is to become the UI toolkit for React developers.
 We're unifying the fragmented ecosystem of dependencies into a single set of simple, beautiful, consistent, and accessible React components.
 
-Our mission is then, ultimately, to make building great React UIs and web apps a breeze ⎯ quicker, simpler, and accessible to more people.
+Our mission is, ultimately, to make building great UIs and web apps a breeze ⎯ quicker, simpler, and accessible to more people.
 At the end of the day, it's about [_writing less code_](https://youtu.be/GnO7D5UaDig?t=2451).
 
 Head over to [our company Handbook](https://mui-org.notion.site/Why-MUI-d8b8c142a6a44e3aa963f26edf4e03db) to learn more!
@@ -40,7 +40,9 @@ We do have a few requirements, though:
 - **Transitions:** the Snackbars should appear and disappear gracefully on the screen, using an animation.
 - **Dark mode:** make sure to support light and dark modes.
 
-## Submission instructions
+## Submission
+
+Instructions:
 
 - **DO NOT** host your project on a public repository.
 - Please send us a .zip file containing this project using the upload link that we have provided by email (**with** the _.git_ folder).
