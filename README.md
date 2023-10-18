@@ -29,22 +29,22 @@ Here's a reference design:
 <img alt="Snackbars example design" src="./public/snackbar-reference.gif" width="465" height="392" />
 
 Note that it's only an example.
-We encourage you to add your creative spin to the design; we want to see your design taste!
+We encourage you to add your creative spin to the design—we want to see your design taste!
 
 ## Requirements
 
-- **Stack:** Use Base UI's [`UnstyledSnackbar`](https://mui.com/base/react-snackbar/) component or another headless component library as its foundation.
-- **Interactivity:**
-  - The other Snackbar instances should be visible after some interaction, either clicking a button or hovering the stack.
-  - They should be kept open if the focus is inside them. Conversely, they should collapse as the focus moves out of it.
-  - Closing them should be possible by clicking on a close button.
-  - _Bonus:_ adding an option to close it after some configurable time interval. It should still be compatible with [WCAG 2.2.1](https://www.w3.org/TR/WCAG21/#enough-time).
+- **Stack:** Use the Base UI [Snackbar](https://mui.com/base/react-snackbar/) or a similar headless component from a library of your choice as the foundation.
 - **Transitions:** the Snackbars should appear and disappear gracefully on the screen, using an animation.
 - **Dark mode:** make sure to support light and dark modes.
+- **Interactivity:**
+  - The other Snackbar instances should be visible after some interaction, either clicking a button or hovering over the stack.
+  - They should stay open when focused, and collapse when the focus moves away.
+  - Each instance should have a functional close button.
+  - _Bonus:_ Add an option to make the Snackbars close automatically after some configurable time interval. This should be compatible with [WCAG 2.2.1](https://www.w3.org/TR/WCAG21/#enough-time).
 
 ## Work environment
 
-To save you time, we created a working environment with Next.js, Typescript, eslint, and others, that you should install.
+To save you time, we created a working environment with Next.js, Typescript, eslint, and other complementary dependencies.
 Follow the steps:
 
 - Clone the repo: `git clone git@github.com:mui/tech-challenge-design-engineer.git`
