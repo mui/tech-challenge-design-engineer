@@ -4,9 +4,9 @@ import Snackbar from '../src/components/Snackbar';
 // Update this page to show-case the demo of the Snackbar component
 export default function Page() {
   return (
-    <>
+    <React.Fragment>
       <h1>Demo using the Snackbar component</h1>
       <Snackbar />
-    </>
+    </React.Fragment>
   );
 }
