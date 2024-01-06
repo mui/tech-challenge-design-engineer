@@ -50,7 +50,7 @@ We encourage you to add your creative spin to the design—we want to see your d
 
 ### Work environment
 
-To save you time, we created a working environment with Next.js, Typescript, eslint, and other complementary dependencies.
+To save you time, we created a working environment with Next.js, TypeScript, ESLint, and other complementary dependencies.
 Follow the steps:
 
 - Clone the repo: `git clone git@github.com:mui/tech-challenge-design-engineer.git`
