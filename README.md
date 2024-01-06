@@ -54,8 +54,8 @@ To save you time, we created a working environment with Next.js, Typescript, esl
 Follow the steps:
 
 - Clone the repo: `git clone git@github.com:mui/tech-challenge-design-engineer.git`
-- Install the dependencies: `yarn`
-- Start Next.js: `yarn dev`
+- Install the dependencies: `pnpm`
+- Start Next.js: `pnpm dev`
 - Open http://0.0.0.0:3002/
 
 ## Submission instructions
