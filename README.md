@@ -39,7 +39,7 @@ We encourage you to add your creative spin to the design—we want to see your d
 
 ### Requirements
 
-- **Stack:** Use the Base UI [Snackbar](https://mui.com/base/react-snackbar/) or a similar headless component from a library of your choice as the foundation.
+- **Stack:** Use the Base UI [Snackbar](https://mui.com/base-ui/react-snackbar/) or a similar headless component from a library of your choice as the foundation.
 - **Transitions:** the Snackbars should appear and disappear gracefully on the screen, using an animation.
 - **Dark mode:** make sure to support light and dark modes.
 - **Interactivity:**
