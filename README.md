@@ -1,7 +1,7 @@
 # Design Engineer technical challenge @ MUI
 
 This challenge is part of the hiring process for some positions at MUI.
-The idea is to make as much progress as possible under a given time constraint of **3 to 4 hours**.
+The idea is to make as much progress as possible under a given time constraint of (3-4 hours).
 
 ## Context
 
@@ -11,7 +11,7 @@ MUI is a fully remote company with a team that spans the globe.
 The majority of our work is asynchronous, and we rely on written communication to collaborate.
 We're radically transparent: nearly all of our work happens in public.
 
-For additional details about the culture you can check our [careers](https://mui.com/careers/) and [about](https://mui.com/about/) pages and also our [public Handbook](https://mui-org.notion.site/Handbook-f086d47e10794d5e839aef9dc67f324b).
+For additional details about the culture, you can check our [careers](https://mui.com/careers/) and [about](https://mui.com/about/) pages and also our [public Handbook](https://mui-org.notion.site/Handbook-f086d47e10794d5e839aef9dc67f324b).
 
 ### About the products
 
@@ -27,7 +27,7 @@ Learn more about MUI's products in this blog post: [An introduction to the MUI e
 
 ## The challenge
 
-Given that the Design Engineer position sits right at the intersection between engineering and design, this challenge aims at simulating how a potential day-to-day situation plays out.
+Given that the Design Engineer position sits right at the intersection between engineering and design, this challenge aims to simulate how a potential day-to-day situation plays out.
 Our challenge is to **develop a stacked Snackbar** component.
 We'll review how you make design decisions and the quality of the written code.
 
@@ -58,12 +58,14 @@ Follow the steps:
 - Start Next.js: `pnpm dev`
 - Open http://0.0.0.0:3002/
 
-## Submission instructions
+## Submission
 
-- **DO NOT** host your project on a public repository.
-- Please send us a .zip file containing this project using the upload link we provided by email (**with** the _.git_ folder).
+Instructions:
+
+- **DO NOT** fork / host your project on a public repository.
+- Please send us a zip file containing this project using the upload link that we have provided by email (**with** the _.git_ folder).
 - To significantly reduce the size of the file, remove the `/_node_modules_/` and `/.next/` folders.
-- If you don't have the upload link, send it to job@mui.com.
+- If you don't have the upload link, you can send it to job@mui.com.
 
 We're excited and looking forward to seeing what you'll create!
 Good luck 🚀
